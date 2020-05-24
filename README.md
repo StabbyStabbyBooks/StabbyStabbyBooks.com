@@ -18,6 +18,6 @@ push:
 ```shell
 hugo
 git add --all
-git cmomit
+git commit
 git push
 ```
